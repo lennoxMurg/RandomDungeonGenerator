@@ -4,6 +4,7 @@ public class Class1
 {
 	public Class1()
 	{
-		//hikfhnrkf
+        //hikfhnrkf
+        Console.WriteLine("Hello world");
 	}
 }
